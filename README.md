@@ -15,7 +15,7 @@ Payflow
 
 ## 📃 Sobre o projeto
 
-Projeto desenvolvido durante a quinta edição da Next Level Week da <a href="rocketseat.com.br" target="_blank">Rocketseat</a>
+Projeto desenvolvido durante a quinta edição da Next Level Week da <a href="rocketseat.com.br" target="_blank">Rocketseat</a> na trilha de flutter. A ideia do app é ler código de barras de boletos e armazenar informações referentes a eles na aplicação, com autenticação utilizando firebase animações a aplicação é um ótimo começo para quem está aprendendo flutter!! 
 
 ## 🛠 Tecnologias utilizadas
 
